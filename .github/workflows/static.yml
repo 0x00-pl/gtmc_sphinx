@@ -34,7 +34,7 @@ jobs:
       - name: Build HTML
         uses: ammaraskar/sphinx-action@master
         with:
-          path: '.'
+          docs-folder: "."
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
