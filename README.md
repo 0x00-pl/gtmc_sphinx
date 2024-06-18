@@ -16,7 +16,7 @@ Use the Makefile to build the docs, like so:
 where `<builder>` is one of the supported builders, e.g. `html`, `latex` or `linkcheck`.
 
 ## publish
-
+using gitlab action for now.
 
 ## Contribute to GTMC
 Sphinx Document: 
