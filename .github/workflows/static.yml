@@ -32,7 +32,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build HTML
-        uses: ammaraskar/sphinx-action@master
+        uses: ammaraskar/sphinx-action@dev
         with:
           docs-folder: "."
       - name: Setup Pages
