@@ -6,10 +6,6 @@
 欢迎来到GTMC
 ================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.  It pulls data from the `Open Food
-Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
-*intuitive* API.
 
 .. note::
 
@@ -17,12 +13,14 @@ Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 
 
 .. toctree::
-   chapter_0/index
-   chapter_preface/index
-   chapter_tree_farm/index
    :maxdepth: 2
-   :caption: Contents:
 
+   chapter_0/index
+   chapter_1/index
+   chapter_2/index
+   chapter_3/index
+   chapter_4/index
+   chapter_5/index
 
 
 Indices and tables
